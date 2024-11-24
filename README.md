@@ -12,5 +12,5 @@ If you’re using Gmail, enable "Less secure app access" in your account setting
 This script uses Python’s built-in libraries, so no additional installations are required.
 * Error Handling:
 The script includes basic exception handling to provide feedback if the email fails to send.
-*Privacy:
+* Privacy:
 Avoid hardcoding sensitive information like passwords. Use environment variables or configuration files instead.
